@@ -1,0 +1,14 @@
+{
+  "status": "api_running",
+  "endpoint": "/predict",
+  "method": "POST",
+  "input": {
+    "pr_lines_changed": 700,
+    "file_count": 15,
+    "author_experience_months": 36,
+    "is_refactor": 1
+  },
+  "output": {
+    "prediction": 18.027399999999997
+  }
+}
